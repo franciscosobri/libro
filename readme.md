@@ -1,1 +1,1 @@
-echo "Mi primer libro en GitHub"
+"Inicialización de repositorio"
